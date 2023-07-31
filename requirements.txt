@@ -2,7 +2,6 @@ networkx
 streamlit
 matplotlib
 pandas
-warnings
 geopandas
 momepy
 contextily
